@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$USER_HOME$/Downloads/JA-Netfilter v2.2.3/.idea/JA-Netfilter v2.2.3.iml" filepath="$USER_HOME$/Downloads/JA-Netfilter v2.2.3/.idea/JA-Netfilter v2.2.3.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/.idea/PycharmProjects.iml" filepath="$USER_HOME$/PycharmProjects/.idea/PycharmProjects.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/谢翔/pipeline_path_opt - 副本/pipeline_path_opt - 副本/.idea/pipeline_path_opt.iml" filepath="$USER_HOME$/Desktop/谢翔/pipeline_path_opt - 副本/pipeline_path_opt - 副本/.idea/pipeline_path_opt.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/谢翔/.idea/谢翔.iml" filepath="$USER_HOME$/Desktop/谢翔/.idea/谢翔.iml" />
     </modules>
   </component>
 </project>

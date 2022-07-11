@@ -4,5 +4,8 @@
     <orderEntry type="jdk" jdkName="Python 3.9 (base)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="JA-Netfilter v2.2.3" />
+    <orderEntry type="module" module-name="谢翔" />
+    <orderEntry type="module" module-name="pipeline_path_opt" />
+    <orderEntry type="module" module-name="PycharmProjects" />
   </component>
 </module>
